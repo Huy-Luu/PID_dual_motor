@@ -49,14 +49,14 @@ float speedCalc(float count, uint8_t time)
 
 void forward()
 {
-	speed();
+	//speed();
 	HAL_GPIO_WritePin(GPIOA,GPIO_PIN_10,0);// trái
 	HAL_GPIO_WritePin(GPIOB,GPIO_PIN_15,0);//phai
 }
 
 void backward()
 {
-	speed();
+	//speed();
 	HAL_GPIO_WritePin(GPIOA,GPIO_PIN_10,1);// trái
 	HAL_GPIO_WritePin(GPIOB,GPIO_PIN_15,1);//phai
 }
@@ -115,6 +115,12 @@ void PID()
 		// tinh toan PID cho dong co neu nhu khong co sai so o encoder.
 		//if((count<60000) ) 
 		//{
+		
+		if(actual_speed_right<0)
+		{
+			actual_speed_right = -1.0*actual_speed_right;
+		}
+		
 		period=HAL_GetTick();
 		PWM=calculate((float)(period-pre_period)/1000, 0.9, actual_speed_right,0);
 		PWM_right=PWM;		
