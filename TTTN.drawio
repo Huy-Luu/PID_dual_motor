@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T13:20:22.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="I2RnHrWKW4tVVt_VsPna" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T13:21:32.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="sHkEa-crQR_aqQIZ7jE1" version="15.4.3" type="github">
   <diagram id="Sajdvg08WPrmbEKcwYS1" name="Page-1">
-    <mxGraphModel dx="2849" dy="1566" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="997" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -815,9 +815,9 @@
             <mxPoint x="945.19" y="1754" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-199">
+        <mxCell id="_Cis2M8GKppwRGDB1JPg-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-199">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1321.5778805226296" y="1764.2758620689656" as="targetPoint" />
+            <mxPoint x="1160.3999633789062" y="1764" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_Cis2M8GKppwRGDB1JPg-199" value="Gửi dữ liệu đến topic &quot;device0/path&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -829,9 +829,9 @@
         <mxCell id="_Cis2M8GKppwRGDB1JPg-202" value="Đúng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="945.19" y="1624" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-212">
+        <mxCell id="_Cis2M8GKppwRGDB1JPg-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-212">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1321.5778805226296" y="1644.2758620689656" as="targetPoint" />
+            <mxPoint x="1161.2000122070312" y="1644" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_Cis2M8GKppwRGDB1JPg-212" value="Gửi dữ liệu đến topic &quot;device0/mode&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -856,11 +856,30 @@
         <mxCell id="_Cis2M8GKppwRGDB1JPg-232" value="Quay lại chương trình chính" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="593.44" y="2024" width="186.56" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_Cis2M8GKppwRGDB1JPg-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-235">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160.3999633789062" y="1524" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_Cis2M8GKppwRGDB1JPg-235" value="Gửi dữ liệu đến topic &quot;device0/speed&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="995" y="1494" width="122" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Cis2M8GKppwRGDB1JPg-237" value="Đúng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="955" y="1742" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Cis2M8GKppwRGDB1JPg-238" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-214">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1370" y="2068" as="sourcePoint" />
+            <mxPoint x="856" y="1466" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="856" y="1847" />
+              <mxPoint x="1160" y="1847" />
+              <mxPoint x="1160" y="1466" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Cis2M8GKppwRGDB1JPg-242" value="Sai" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="853" y="1809" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
