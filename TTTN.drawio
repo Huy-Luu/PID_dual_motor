@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T13:16:50.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="2b3lDbJd5qX72W-UrWqP" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T13:17:58.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="JD_BEnCFH-M2fzxNczMs" version="15.4.3" type="github">
   <diagram id="Sajdvg08WPrmbEKcwYS1" name="Page-1">
     <mxGraphModel dx="831" dy="457" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -851,7 +851,7 @@
             <mxPoint x="1321.5778805226296" y="1644.2758620689656" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-212" value="Hiển thị vị trí hiện tại trên bản đồ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_Cis2M8GKppwRGDB1JPg-212" value="Gửi dữ liệu&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="991.44" y="1614" width="179" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Cis2M8GKppwRGDB1JPg-214" value="&lt;font face=&quot;helvetica&quot;&gt;Gửi dữ liệu đường đi&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
