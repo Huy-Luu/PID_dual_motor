@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T12:43:13.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="rESoWjFX-GYmazcLTCbj" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T12:47:18.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="ceYJCvQ-nLp7QZDZrkwf" version="15.4.3" type="github">
   <diagram id="Sajdvg08WPrmbEKcwYS1" name="Page-1">
-    <mxGraphModel dx="1424" dy="783" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="688" dy="378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,10 +55,8 @@
         <mxCell id="rjviYHl-hmXQyp39427c-27" value="Sai" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="390" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rjviYHl-hmXQyp39427c-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rjviYHl-hmXQyp39427c-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="540" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="_Cis2M8GKppwRGDB1JPg-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rjviYHl-hmXQyp39427c-28" target="_Cis2M8GKppwRGDB1JPg-132">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rjviYHl-hmXQyp39427c-28" value="Nhận dữ liệu tốc độ và gửi bằng UART" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="510" width="120" height="60" as="geometry" />
@@ -72,6 +70,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_Cis2M8GKppwRGDB1JPg-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rjviYHl-hmXQyp39427c-36" target="_Cis2M8GKppwRGDB1JPg-136">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rjviYHl-hmXQyp39427c-36" value="Nhận dữ liệu đường đi và gửi bằng UART" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="286.25" y="630" width="120" height="60" as="geometry" />
@@ -125,7 +126,7 @@
             <mxPoint x="460" y="680" as="sourcePoint" />
             <mxPoint x="150" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="970" />
+              <mxPoint x="566" y="970" />
               <mxPoint x="560" y="490" />
               <mxPoint x="560" y="450" />
               <mxPoint x="560" y="370" />
@@ -706,6 +707,29 @@
         </mxCell>
         <mxCell id="_Cis2M8GKppwRGDB1JPg-131" value="Subscribe:&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1930" y="1324" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Cis2M8GKppwRGDB1JPg-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-132">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560.1666870117188" y="539.6666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Cis2M8GKppwRGDB1JPg-132" value="Thông báo đã nhận qua topic &quot;device0/speedstate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422" y="510" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Cis2M8GKppwRGDB1JPg-136" value="Thông báo đã nhận qua topic &quot;device0/pathstate&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422" y="630" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Cis2M8GKppwRGDB1JPg-140" value="Thông báo đã nhận qua topic &quot;device0/modestate&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="502" y="785" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Cis2M8GKppwRGDB1JPg-142" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjviYHl-hmXQyp39427c-59" target="_Cis2M8GKppwRGDB1JPg-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="440" as="sourcePoint" />
+            <mxPoint x="290" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="564" y="970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
