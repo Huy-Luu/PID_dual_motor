@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T13:01:22.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="2K9R808nFz5wXcxUV0-U" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T13:01:32.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="I7PrjCu6ZIdKttPugdN7" version="15.4.3" type="github">
   <diagram id="Sajdvg08WPrmbEKcwYS1" name="Page-1">
     <mxGraphModel dx="831" dy="457" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -237,6 +237,11 @@
         <mxCell id="rjviYHl-hmXQyp39427c-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="rjviYHl-hmXQyp39427c-103" edge="1" source="_Cis2M8GKppwRGDB1JPg-148">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1183.75" y="700" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Cis2M8GKppwRGDB1JPg-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rjviYHl-hmXQyp39427c-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1565.499989827474" y="709.6666666666667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rjviYHl-hmXQyp39427c-103" value="Hiển thị tốc độ hiện tại" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -775,6 +780,11 @@
         </mxCell>
         <mxCell id="_Cis2M8GKppwRGDB1JPg-157" value="Tin đã được nhận?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="872" width="149" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_Cis2M8GKppwRGDB1JPg-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1566.8333536783857" y="853.8333333333335" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_Cis2M8GKppwRGDB1JPg-159" value="ESP đã nhận tin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1409" y="824" width="120" height="60" as="geometry" />
