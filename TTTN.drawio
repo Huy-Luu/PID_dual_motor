@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T13:16:22.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="0lZ-Ucki5c5TkbDpXPmq" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T13:16:50.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="2b3lDbJd5qX72W-UrWqP" version="15.4.3" type="github">
   <diagram id="Sajdvg08WPrmbEKcwYS1" name="Page-1">
-    <mxGraphModel dx="688" dy="378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="831" dy="457" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -812,12 +812,6 @@
         <mxCell id="_Cis2M8GKppwRGDB1JPg-194" value="Sai" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="927.44" y="1396" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1161.44" y="1524" as="targetPoint" />
-            <mxPoint x="1111.44" y="1524" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_Cis2M8GKppwRGDB1JPg-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="942.6900000000005" y="1644" as="sourcePoint" />
@@ -852,40 +846,6 @@
         <mxCell id="_Cis2M8GKppwRGDB1JPg-202" value="Đúng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="945.19" y="1624" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-203" value="Đã đến đích?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="991.44" y="1484" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-204" value="Đúng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1111.44" y="1504" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-205" value="Sai" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1059.44" y="1558" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-206" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-203">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1091.44" y="1624" as="sourcePoint" />
-            <mxPoint x="1161.44" y="1575" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1051.44" y="1575" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-208">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1325.8400854492188" y="1524" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-208" value="State = Arrived" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1161.44" y="1502" width="120" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-210">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1326.6400732421876" y="1573" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-210" value="State = Running" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1162.44" y="1553" width="119" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="_Cis2M8GKppwRGDB1JPg-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-212">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1321.5778805226296" y="1644.2758620689656" as="targetPoint" />
@@ -896,60 +856,6 @@
         </mxCell>
         <mxCell id="_Cis2M8GKppwRGDB1JPg-214" value="&lt;font face=&quot;helvetica&quot;&gt;Gửi dữ liệu đường đi&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="742.12" y="1724" width="223.63" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_Cis2M8GKppwRGDB1JPg-219">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="965.75" y="1869" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-219" target="_Cis2M8GKppwRGDB1JPg-221">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1155.44" y="1814" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-219" target="_Cis2M8GKppwRGDB1JPg-222">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1155.44" y="1947" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-219" value="Tin đã được nhận?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1006.44" y="1829" width="149" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-221">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1322.681311961207" y="1813.9310344827586" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-221" value="ESP đã nhận tin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1173.44" y="1784" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-222" value="ESP không nhận tin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170.44" y="1917" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-223" value="Đúng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1093.44" y="1811" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-224" value="Sai" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1095.44" y="1909" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-225" value="Đúng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="949.44" y="1844" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_Cis2M8GKppwRGDB1JPg-227" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Cis2M8GKppwRGDB1JPg-222">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1337.44" y="1947.5999755859375" as="sourcePoint" />
-            <mxPoint x="854.44" y="1352.3333231608076" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1323.44" y="1947" />
-              <mxPoint x="1323.44" y="1932" />
-              <mxPoint x="1323.44" y="1910" />
-              <mxPoint x="1323.44" y="1352" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="_Cis2M8GKppwRGDB1JPg-228" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Có dữ liệu đến broker&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1395" width="120" height="60" as="geometry" />
